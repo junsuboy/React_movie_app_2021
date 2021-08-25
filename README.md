@@ -19,5 +19,4 @@
 - "Github Pages"
 
 <br><br>
-![image](https://user-images.githubusercontent.com/86935775/130712829-3c5818b1-9290-41de-bdb8-7be258c7f60f.png)
-
+![image](https://user-images.githubusercontent.com/86935775/130712874-4a76ba1e-425a-4920-88f4-1a9151aef0ba.png)
